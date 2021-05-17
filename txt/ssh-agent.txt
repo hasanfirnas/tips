@@ -1,5 +1,5 @@
-start an ssh-agent automatically
-================================
+ssh agent - start automatically
+===============================
 
 For instance in WSL2 where you don't have one by default.
 
@@ -15,4 +15,4 @@ fi
 source $HOME/.tmp/agent.sh &>/dev/null
 -----------------------------------------------------------------------------
 
-Additional tags : wsl, wsl2, agent, ssh
+Additional tags : wsl, wsl2, ssh-agent

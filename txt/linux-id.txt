@@ -1,5 +1,5 @@
-Linux ID
-========
+linux - ID
+==========
 
 IP vs hostnames
 
