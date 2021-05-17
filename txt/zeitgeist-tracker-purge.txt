@@ -1,4 +1,5 @@
-== Disable zeitgeist and tracker
+Disable zeitgeist and tracker
+=============================
 
 Zeitgeist is a service which logs user activities and events.
 

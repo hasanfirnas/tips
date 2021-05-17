@@ -1,4 +1,5 @@
-== start an ssh-agent automatically
+start an ssh-agent automatically
+================================
 
 For instance in WSL2 where you don't have one by default.
 
