@@ -32,4 +32,14 @@ tracker-control -r
 tracker-control -S
 -----------------------------------------------------------------------------
 
+tracker-preferences is not available on recent Debian and Ubuntu versions.
+
+Install `dconf-editor`, run it, browse to org > freedesktop > Tracker > Miner > Files
+
+See also :
+
+------------------------------------------------------------------------------
+gsettings list-recursively org.freedesktop.Tracker.Miner.Files
+------------------------------------------------------------------------------
+
 Additional tags : tracker, track, tracking
